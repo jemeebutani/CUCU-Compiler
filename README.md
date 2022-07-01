@@ -1,2 +1,0 @@
-# CUCU-Compiler
-Project
